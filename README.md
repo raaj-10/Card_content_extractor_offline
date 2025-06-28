@@ -1,0 +1,1 @@
+# Card_content_extractor_offline
